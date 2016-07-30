@@ -1,0 +1,8 @@
+A program is usually composed of text . It is written in a programming language . 
+Program text are translated into suitable instruction sequence which is processed by a compiler .
+ This is because a computer can only interprete sequence of a particular instruction ( such as binary codes ) .
+ A program that automates the translation of a source program ( program texts ) 
+into machine codes is called a compiler . Also a source program may only be intepreted ( executed ) each
+ time it is run . However the need for a compiler is to avoid the analysis of the characteristic form of 
+program every time the program is run as to optimize computer resources .  A compiler does not only tranlate the 
+source program but also creates a target program equivalent to the source program .
